@@ -14,7 +14,7 @@ def get_list():
         <h1>Hola soy una pagina</h1>
         <p> Soy un parrafo</p>
     """
-
+ 
 
 def run():
     store.get_categories()
